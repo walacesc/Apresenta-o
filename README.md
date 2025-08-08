@@ -1,2 +1,24 @@
-# Olá mundo
-Primeiro repositório de versionamento Git e Git-hub
+
+# 👋 Sejam bem vindos ao meu perfil, me chamo walace!
+
+💻 **Estudante de Engenharia de Software** | 🎶 **Músico**  
+📚 Aluno do **Professor Guanabara** e do **Estudonauta**  
+🚀 Apaixonado por tecnologia e aprendizado contínuo  
+
+---
+
+## ✨ Sobre mim
+- Sempre em busca de **aprender e evoluir**
+- Explorando **programação** e **boas práticas de código**
+- Buscando de alguma maneira **contribuir** com a comunidade
+
+---
+
+## 📌 O que você vai encontrar por aqui
+- **Projetos** e estudos de programação  
+- Experimentos e **ideias pessoais**  
+- **Anotações** e dicas úteis  
+
+---
+
+💬 **"Código limpo, mente aberta e aprendizado constante e muito Rock and roll."**
