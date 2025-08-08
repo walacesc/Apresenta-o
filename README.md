@@ -21,4 +21,4 @@
 
 ---
 
-💬 **""“Você pode criar qualquer coisa: basta escrever” – C. S. Lewis**
+💬 **“Você pode criar qualquer coisa: basta escrever” – C. S. Lewis**
