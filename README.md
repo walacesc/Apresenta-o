@@ -1,7 +1,7 @@
 
 # 👋 Sejam bem vindos ao meu perfil, me chamo walace!
 
-💻 **Estudante de Engenharia de Software** | 🎶 **Músico**  
+💻 **Estudante de Engenharia de Software**| 🎶 **Músico**  
 📚 Aluno do **Professor Guanabara** e do **Estudonauta**  
 🚀 Apaixonado por tecnologia e aprendizado contínuo  
 
@@ -21,4 +21,4 @@
 
 ---
 
-💬 **"Código limpo, mente aberta e aprendizado constante e muito Rock and roll."**
+💬 **""“Você pode criar qualquer coisa: basta escrever” – C. S. Lewis**
